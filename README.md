@@ -34,19 +34,8 @@ This project demonstrates:
 - **von Neumann entropy** captures the critical entanglement growth  
 - **Classical shadows** reproduce Rényi-2 entropy with moderate shot complexity  
 
-<p align="center">
-  <img src="figures/vn_entropy_vs_g.png" width="450"/>
-  <img src="figures/shadow_entropy_vs_g.png" width="450"/>
-</p>
-
 ---
 
 ## 📚 References
 - Huang, H.-Y., Kueng, R., & Preskill, J. (2020). *Predicting many properties of a quantum system from very few measurements*.  
   Nature Physics, 16, 1050–1057. [doi:10.1038/s41567-020-0932-7](https://doi.org/10.1038/s41567-020-0932-7)
-
----
-
-## 👤 Author
-**Junwoo Jung** (KAIST, Exchange at DTU 2025)  
-📧 Contact: [GitHub Profile](https://github.com/junwoojung0908)
